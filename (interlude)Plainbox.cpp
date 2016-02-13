@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  Plainbox.cpp
 //  Ch1_Classes
@@ -33,4 +33,4 @@ ItemType PlainBox::getItem() const
     std::cout << item << std::endl;
     return item;
 }
-```
+
