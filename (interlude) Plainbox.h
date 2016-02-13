@@ -1,4 +1,3 @@
-```cpp
 //
 //  PlainBox.h
 //  Ch1_Classes
@@ -25,4 +24,4 @@ public:
 };
 
 #endif
-```
+
