@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  stack.cpp
 //  Chapter6_Stack
@@ -62,4 +62,4 @@ void stack<ItemType>::peek() const
 {
     std::cout << aStack[top] << std::endl;
 }
-```
+
