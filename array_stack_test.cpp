@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  main.cpp
 //  Chapter7_ArrayStack
@@ -53,4 +53,4 @@ int main()
         maxStack -> pop();
     }
 }
-```
+
