@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  MagicBox.h
 //  Class_Template
@@ -26,4 +26,4 @@ public:
 
 
 #endif
-```
+
