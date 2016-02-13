@@ -1,4 +1,4 @@
-```
+
 //
 //  ArrayBag.h
 //  Chapter7_ArrayStack
@@ -27,4 +27,4 @@ public:
 
 #endif /* defined(__Chapter7_ArrayStack__ArrayBag__) */
 
-```
+
