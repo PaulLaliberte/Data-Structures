@@ -1,4 +1,4 @@
-```cpp
+
 #include "stack.h"
 #include "stack.cpp"
 #include <iostream>
@@ -44,4 +44,4 @@ int main()
     //Cannot add because of bool, switch to itemtype to add. 
     
 }
-```
+
