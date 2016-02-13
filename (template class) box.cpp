@@ -1,4 +1,4 @@
-```cpp
+
 
 #include <iostream>
 #include "box.h"
@@ -27,4 +27,4 @@ itemtype hopefulbox<itemtype>::getitem() const
     return item;
 
 }
-```
+
