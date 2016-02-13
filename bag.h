@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  bag.h
 //  ADT Bag - Header File
@@ -23,4 +23,4 @@ public:
     void clear();              //remove all members from bag
 };
 #endif
-```
+
