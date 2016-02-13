@@ -1,4 +1,4 @@
-```cpp
+
 #include "MagicBox.h"
 
 
@@ -27,6 +27,3 @@ void magicbox<itemtype>::setitem(const itemtype& theitem)
         firstitemstored = true;
     }
 }
-
-
-```
