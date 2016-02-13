@@ -1,4 +1,4 @@
-```cpp
+
 #include "ToyBox.h"
 #include <iostream>
 
@@ -34,4 +34,4 @@ Color ToyBox<itemtype>::getColor() const
 {
     return boxColor;
 }
-```
+
