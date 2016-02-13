@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  ToyBox.h
 //  Class_Template
@@ -27,4 +27,4 @@ public:
 };
 
 #endif
-```
+
