@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  bag_class.cpp
 //  ADT Bag
@@ -43,4 +43,4 @@ int Bag::size() //How many elements in bag?
 {
     return count;
 }
-```
+
