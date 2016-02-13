@@ -1,4 +1,4 @@
-```cpp
+
 #ifndef BOX_h
 #define BOX_h
 
@@ -16,4 +16,4 @@ public:
 };
 
 #endif
-```
+
