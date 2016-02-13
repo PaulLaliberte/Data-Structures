@@ -1,4 +1,4 @@
-```cpp
+
 
 //
 //  main.cpp
@@ -37,4 +37,4 @@ int main()
     towerC = 'C';
     solveTowersproblem(discs, towerA, towerB, towerC);
 }
-```
+
