@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  bag_test.cpp
 //  ADT Bag
@@ -31,4 +31,4 @@ int main()
     b.clear();
     cout << b.size() << " element(s) in the bag after b.clear()." << endl;
 }
-```
+
