@@ -1,4 +1,4 @@
-```cpp
+
 #include <iostream>
 using namespace std;
 
@@ -201,4 +201,4 @@ int main()
     cout << "Largest element in your array is: ";
     cout << largestValue(array, 0, size-1);
 }
-```
+
