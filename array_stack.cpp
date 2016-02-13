@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  ArrayBag.cpp
 //  Chapter7_ArrayStack
@@ -62,4 +62,4 @@ void ArrayStack<type>::peek()
     
 }
 
-```
+
