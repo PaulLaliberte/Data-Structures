@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  test.cpp
 //  Ch1_Classes
@@ -17,4 +17,4 @@ int main()
     newbox.setItem(&health);
     newbox.getItem();
 }
-```
+
