@@ -1,4 +1,4 @@
-```cpp
+
 //
 //  StackInterface.h
 //  Chapter6_Stack
@@ -24,4 +24,4 @@ public:
 };
 
 #endif
-```
+
